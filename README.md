@@ -45,13 +45,15 @@ I'm a curious developer turning fundamentals into small, useful projects. Right 
 
 ## Contribution rhythm
 
-<p align="center">
-  <a href="https://github.com/Yoshi-dev-mode?tab=overview&from=2026-01-01&to=2026-12-31" title="Open my full contribution history">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoshi-dev-mode&bg_color=0d1117&color=8c959f&line=58a6ff&point=7ee787&area=true&area_color=1f6feb&hide_border=true&custom_title=One%20commit%20at%20a%20time" alt="Yoshi's live GitHub contribution activity graph" width="100%" />
-  </a>
-</p>
-
-<p align="center"><sub>Live data · click the graph to explore the full timeline</sub></p>
+<details>
+  <summary><strong>Explore my live contribution timeline</strong></summary>
+  <br />
+  <p>GitHub's native calendar updates with every contribution. Open it to hover over individual days, switch years, and inspect the work behind the squares.</p>
+  <p align="center">
+    <a href="https://github.com/Yoshi-dev-mode?tab=overview&from=2026-01-01&to=2026-12-31#year-link-2026"><img src="https://img.shields.io/badge/Open_live_calendar-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Yoshi's live GitHub contribution calendar" /></a>
+    <a href="https://github.com/Yoshi-dev-mode?tab=repositories&sort=pushed"><img src="https://img.shields.io/badge/See_latest_projects-7ee787?style=for-the-badge&logo=git&logoColor=0d1117" alt="See Yoshi's latest repositories" /></a>
+  </p>
+</details>
 
 ## The next chapter
 
