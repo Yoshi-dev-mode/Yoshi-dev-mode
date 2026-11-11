@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/status-learning%20in%20public-7ee787?style=flat-square&labelColor=0d1117" alt="Learning in public" />
 </p>
 
+<p align="center">
+  <a href="https://evangel-yoshiya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" alt="View Evangel Yoshiya's portfolio" /></a>
+</p>
+
 ## Hello, I'm Yoshi.
 
 I'm a curious developer turning fundamentals into small, useful projects. Right now, I'm sharpening my Python skills, building with React and Next.js, exploring AI and cybersecurity, and documenting the lessons I learn along the way.
@@ -34,6 +38,7 @@ I'm a curious developer turning fundamentals into small, useful projects. Right 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
+| **[Personal Portfolio](https://evangel-yoshiya-portfolio.vercel.app/)** | My featured work, skills, and developer journey in one place. | `Next.js` `React` |
 | [LeetCode Solved Problems](https://github.com/Yoshi-dev-mode/Leetcode-Solved-Problems) | Documented solutions with explanations, patterns, and complexity notes. | `C++` `Python` |
 | [Python Fundamentals](https://github.com/Yoshi-dev-mode/Python-Fundamentals) | Beginner-friendly exercises and examples for learning core Python concepts. | `Python` |
 
